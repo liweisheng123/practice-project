@@ -7,4 +7,4 @@ Project1: Find a key with hash value “sdu_cst_20220610” under a message comp
 运行截图：![QQ截图20220727150500](https://user-images.githubusercontent.com/109948161/181193330-b744dee8-7ff6-4f35-b3ac-640fea4c6fa5.png)
 注：由于每次的填充内容伪随机，故每一次的运行结果不同
 
-由 李苇昇_202000460106 完成，部分内容引用自“https://github.com/cmuratori/meow_hash”
+由 李苇昇_202000460106 完成，部分内容引用自“https://github.com/cmuratori/meow_hash”和“https://peter.website/meow-hash-cryptanalysis”
