@@ -1,0 +1,5 @@
+﻿  Reversibility_attack.cpp
+D:\meow\meow_hash_x64_aesni.h(571,29): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+D:\meow\meow_hash_x64_aesni.h(573,19): warning C4244: “-=”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+D:\meow\meow_hash_x64_aesni.h(586,18): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+  meow.vcxproj -> D:\meow\Debug\meow.exe
