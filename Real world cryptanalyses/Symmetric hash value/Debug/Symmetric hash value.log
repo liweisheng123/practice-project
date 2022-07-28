@@ -1,0 +1,13 @@
+﻿  源.cpp
+D:\Symmetric hash value\meow_hash_x64_aesni.h(571,29): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+D:\Symmetric hash value\meow_hash_x64_aesni.h(573,19): warning C4244: “-=”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+D:\Symmetric hash value\meow_hash_x64_aesni.h(586,18): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+D:\Symmetric hash value\meow_hash_x64_aesni.h(725,5): warning C4003: 类函数宏的调用“pxor_clear”参数不足
+D:\Symmetric hash value\meow_hash_x64_aesni.h(726,5): warning C4003: 类函数宏的调用“pxor_clear”参数不足
+D:\Symmetric hash value\meow_hash_x64_aesni.h(727,5): warning C4003: 类函数宏的调用“pxor_clear”参数不足
+D:\Symmetric hash value\meow_hash_x64_aesni.h(728,5): warning C4003: 类函数宏的调用“pxor_clear”参数不足
+D:\Symmetric hash value\meow_hash_x64_aesni.h(729,5): warning C4003: 类函数宏的调用“pxor_clear”参数不足
+D:\Symmetric hash value\meow_hash_x64_aesni.h(730,5): warning C4003: 类函数宏的调用“pxor_clear”参数不足
+D:\Symmetric hash value\meow_hash_x64_aesni.h(731,5): warning C4003: 类函数宏的调用“pxor_clear”参数不足
+D:\Symmetric hash value\meow_hash_x64_aesni.h(732,5): warning C4003: 类函数宏的调用“pxor_clear”参数不足
+  Symmetric hash value.vcxproj -> D:\Symmetric hash value\Debug\Symmetric hash value.exe
