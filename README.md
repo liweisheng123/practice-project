@@ -9,3 +9,9 @@ Real world cryptanalyses（均位于同名文件夹中）
 Project1: Find a key with hash value “sdu_cst_20220610” under a message composed of your name followed by your student ID. For example, “San Zhan 202000460001”.
 
 Project2: Find a 64-byte message under some  fulfilling that their hash value is symmetrical
+
+参考资料及引用：
+
+https://github.com/cmuratori/meow_hash
+
+https://peter.website/meow-hash-cryptanalysis
