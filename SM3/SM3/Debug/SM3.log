@@ -1,0 +1,14 @@
+﻿  SM3.cpp
+D:\SM3\operation.h(15,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\SM3\operation.h(35,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\SM3\operation.h(53,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\SM3\operation.h(55,53): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\SM3\operation.h(76,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\SM3\operation.h(80,60): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\SM3\operation.h(83,55): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\SM3\operation.h(123,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\SM3\operation.h(142,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\SM3\operation.h(160,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\SM3\operation.h(178,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\SM3\SM3.cpp(10,20): warning C4018: “<”: 有符号/无符号不匹配
+  SM3.vcxproj -> D:\SM3\Debug\SM3.exe
