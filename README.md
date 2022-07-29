@@ -4,6 +4,8 @@
 
 完成项目：
 
+Project: do your best to optimize SM3 implementation (software)(位于文件夹“SM3”中)
+
 Real world cryptanalyses（均位于同名文件夹中）
 
 Project1: Find a key with hash value “sdu_cst_20220610” under a message composed of your name followed by your student ID. For example, “San Zhan 202000460001”.
@@ -19,8 +21,6 @@ Project: implement the naïve birthday attack of reduced SM3
 Project: implement the Rho method of reduced SM3
 
 Project: implement length extension attack for SM3, SHA256, etc.
-
-Project: do your best to optimize SM3 implementation (software)
 
 Project: Impl Merkle Tree following RFC6962
 
