@@ -1,6 +1,10 @@
-此文件包含SM3模块的一个项目，
+此文件包含SM3模块的两个项目，
 
-Project: do your best to optimize SM3 implementation (software)
+Project1: implement the naïve birthday attack of reduced SM3
+
+内容位于文件夹“生日攻击”
+
+Project2: do your best to optimize SM3 implementation (software)
 
 内容位于文件夹“SM3”
 
