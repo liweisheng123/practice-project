@@ -4,7 +4,11 @@
 
 完成项目：
 
-Project: do your best to optimize SM3 implementation (software)(位于文件夹“SM3”中)
+SM3（均位于同名文件夹中）
+
+Project1: implement the naïve birthday attack of reduced SM3
+
+Project2: do your best to optimize SM3 implementation (software)
 
 Real world cryptanalyses（均位于同名文件夹中）
 
@@ -15,8 +19,6 @@ Project2: Find a 64-byte message under some  fulfilling that their hash value is
 未完成项目：
 
 SM3
-
-Project: implement the naïve birthday attack of reduced SM3
 
 Project: implement the Rho method of reduced SM3
 
